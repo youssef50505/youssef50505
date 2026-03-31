@@ -11,7 +11,7 @@ Aspiring software developer with around 2 years of hands-on learning in programm
 * 🌍  I'm based in cairo
 * 🖥️  See my portfolio at [youssef\_cs\_2024](http://github.com/youssef50505)
 * ✉️  You can contact me at [yhsn50505@gmail.com](mailto:yhsn50505@gmail.com)
-* 🚀  I'm currently working on [نَهْجُ الْمُسْلِمِ](https://islamek-aovy.vercel.app/) [Spring](https://spring-o3gtobaju-youssefs-projects-3bfcf765.vercel.app)
+* 🚀  I'm currently working on [نَهْجُ الْمُسْلِمِ](https://islamek-aovy.vercel.app/) && [Spring](https://spring-o3gtobaju-youssefs-projects-3bfcf765.vercel.app)
 * 🧠  I'm currently learning flutter
 * 👥  I'm looking to collaborate on Interesting and meaningful projects
 

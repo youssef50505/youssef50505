@@ -1,21 +1,16 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Youssef%20Hassan&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Flutter%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Linux&descSize=18&descAlignY=58&descColor=a78bfa" />
+# 👋 Hello, I'm Youssef Hassan
+### 🚀 Software Developer | Flutter Enthusiast | Linux Power User
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;Flutter+%26+Dart+Enthusiast+%F0%9F%93%B1;Spring+Boot+%7C+Angular+%7C+React+Developer;Linux+Power+User+%F0%9F%90%A7;Building+Arabic+EdTech+with+AI+%F0%9F%A4%96)](https://git.io/typing-svg)
+<img src="./banner.png" width="100%" />
 
-<p>
-  <a href="https://github.com/youssef50505">
-    <img src="https://komarev.com/ghpvc/?username=youssef50505&label=Profile%20views&color=7c3aed&style=flat" alt="Profile Views" />
-  </a>
-  <a href="https://www.linkedin.com/in/youssef-hassan-8a41a7358">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:yhsn50505@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat&logo=checkmarx&logoColor=white" alt="Open to Work" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;Flutter+%26+Dart+Specialist+%F0%9F%93%B1;Spring+Boot+%7C+Angular+%7C+Next.js;Building+AI+Arabic+EdTech+%F0%9F%A4%96;Always+learning.+Always+building+%E2%9C%A8)](https://git.io/typing-svg)
+
+<p align="center">
+  <a href="https://github.com/youssef50505"><img src="https://komarev.com/ghpvc/?username=youssef50505&label=Profile%20views&color=7c3aed&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/youssef-hassan-8a41a7358"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:yhsn50505@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 </div>
@@ -25,94 +20,80 @@
 ## 👨‍💻 About Me
 
 ```dart
-final youssef = Developer(
-  name:       "Youssef Hassan",
-  location:   "Cairo, Egypt 🇪🇬",
-  company:    "NTG Clarity",
-  role:       "Software Developer",
-  stack:      ["Flutter", "Spring Boot", "Angular", "React"],
-  os:         ["Linux 🐧", "Kali Linux", "Fedora", "Ubuntu"],
-  learning:   ["Flutter", "Spring Boot", "Angular"],
-  building:   ["فهمك علينا — AI Arabic EdTech Platform 🤖"],
-  openTo:     ["On-site", "Hybrid", "Remote"],
-  funFact:    "I think in code and dream in terminal 💜",
-);
+class Developer {
+  final String name     = "Youssef Hassan";
+  final String location = "Cairo, Egypt 🇪🇬";
+  final String company  = "NTG Clarity";
+  final String role     = "Software Developer";
+  
+  final List<String> stack = [
+    "Flutter", "Spring Boot", "Angular", "React", "Next.js"
+  ];
+  
+  final Map<String, String> currentFocus = {
+    "Building": "فهمك علينا — AI Arabic EdTech Platform 🤖",
+    "Learning": "Advanced System Design & Cloud Architecture",
+    "FunFact":  "I think in code and dream in terminal 💜"
+  };
+}
 ```
 
 ---
 
-## 🚀 Current Projects
+## 🛠️ Tech Universe
 
-<table>
+<table align="center">
   <tr>
-    <td align="center" width="50%">
-      <a href="https://islamek-aovy.vercel.app/">
-        <img src="https://img.shields.io/badge/نهج_المسلم-Islamic_App-009900?style=for-the-badge&logo=vercel" />
-      </a>
-      <br/>
-      <sub>Islamic guidance web application</sub>
+    <td align="center" width="250"><b>Mobile & Frontend</b></td>
+    <td align="center" width="250"><b>Backend & DB</b></td>
+    <td align="center" width="250"><b>Tools & OS</b></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
     </td>
-    <td align="center" width="50%">
-      <a href="#">
-        <img src="https://img.shields.io/badge/فهمك_علينا-AI_EdTech_Platform-7c3aed?style=for-the-badge&logo=googlegemini" />
-      </a>
-      <br/>
-      <sub>AI-powered Arabic educational platform · Gemini · Spring · Angular</sub>
+    <td>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Tech Stack
-
-### 📱 Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### 🌐 Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### ⚙️ Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### 🗄️ Database & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### 🐧 OS & Tools
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+## 🚀 Featured Projects
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=youssef50505&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef50505&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa" />
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **نهج المسلم** | 🕌 Islamic guidance web application | Angular, Vercel | [Live](https://islamek-aovy.vercel.app/) |
+| **فهمك علينا** | 🤖 AI-powered Arabic educational platform | Flutter, Gemini AI | [Repo](https://github.com/youssef50505) |
+| **Sign Language App** | 🤟 Real-time translator for accessibility | React, Python | [Repo](https://github.com/youssef50505) |
 
+</div>
+
+---
+
+## 📊 Performance Metrics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=youssef50505&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef50505&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa" />
 </div>
 
 <div align="center">
@@ -121,21 +102,25 @@ final youssef = Developer(
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎵 Resonance
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=youssef50505&theme=tokyonight&no-frame=true&no-bg=true&column=6" />
+
+[![Spotify](https://novatorem-youssef50505.vercel.app/api/spotify)](https://open.spotify.com)
+
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## 🐍 Activity
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Youssef%20Hassan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-hassan-8a41a7358)
-[![GitHub](https://img.shields.io/badge/GitHub-youssef50505-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/youssef50505)
-[![Gmail](https://img.shields.io/badge/Gmail-yhsn50505@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yhsn50505@gmail.com)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/youssef50505/youssef50505/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/youssef50505/youssef50505/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/youssef50505/youssef50505/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 

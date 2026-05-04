@@ -8,7 +8,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndzB4bmJ4ZzB4bmJ4ZzB4bmJ4ZzB4bmJ4ZzB4bmJ4ZzB4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/L18VAd9vB5yJ3j1S1X/giphy.gif" width="150" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="80" />
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=26&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Innovative+Full-Stack+Developer+%F0%9F%92%BB;Flutter+%26+Dart+Specialist+%F0%9F%93%B1;Spring+Boot+%7C+Angular+%7C+Next.js;Building+Arabic+EdTech+with+AI+%F0%9F%A4%96;Linux+Power+User+%26+Open+Source+Advocate;Always+learning.+Always+evolving+%E2%9C%A8)](https://git.io/typing-svg)
@@ -61,15 +61,15 @@ class Developer {
 
 ---
 
-## 🛠️ My Arsenal (3D Animated)
+## 🛠️ My Arsenal (Animated 3D)
 
 <div align="center">
 
 | Category | Technologies |
 | :--- | :--- |
-| **Mobile & Frontend** | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="25" /> **Flutter, Angular, React** |
-| **Backend & DB** | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="25" /> **Spring Boot, Node, PostgreSQL** |
-| **DevOps & OS** | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Cloud.png" width="25" /> **Docker, Linux, Git** |
+| **Mobile & Frontend** | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="35" /> **Flutter, Angular, React** |
+| **Backend & DB** | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="35" /> **Spring Boot, Node, PostgreSQL** |
+| **DevOps & OS** | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" width="35" /> **Docker, Linux, Git** |
 
 <br/>
 

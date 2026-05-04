@@ -1,11 +1,11 @@
 <div align="center">
 
-# 👋 Hello, I'm Youssef Hassan
-### 🚀 Software Developer | Flutter Enthusiast | Linux Power User
+# 🌌 Welcome to My Digital Universe
+### 🛠️ Crafting Seamless Experiences with Flutter & Full-Stack Technologies
 
-<img src="./banner.png" width="100%" />
+<img src="./banner_wide.png" width="100%" alt="Youssef Hassan Banner" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;Flutter+%26+Dart+Specialist+%F0%9F%93%B1;Spring+Boot+%7C+Angular+%7C+Next.js;Building+AI+Arabic+EdTech+%F0%9F%A4%96;Always+learning.+Always+building+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=26&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Innovative+Full-Stack+Developer+%F0%9F%92%BB;Flutter+%26+Dart+Specialist+%F0%9F%93%B1;Spring+Boot+%7C+Angular+%7C+Next.js;Building+Arabic+EdTech+with+AI+%F0%9F%A4%96;Linux+Power+User+%26+Open+Source+Advocate;Always+learning.+Always+evolving+%E2%9C%A8)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://github.com/youssef50505"><img src="https://komarev.com/ghpvc/?username=youssef50505&label=Profile%20views&color=7c3aed&style=for-the-badge" /></a>
@@ -17,80 +17,69 @@
 
 ---
 
-## 👨‍💻 About Me
+## 💎 Achievements
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=youssef50505&theme=tokyonight&no-frame=true&no-bg=true&column=6" />
+</div>
+
+---
+
+## 👨‍💻 The Developer Object
 
 ```dart
 class Developer {
   final String name     = "Youssef Hassan";
   final String location = "Cairo, Egypt 🇪🇬";
-  final String company  = "NTG Clarity";
-  final String role     = "Software Developer";
+  final String role     = "Software Developer @ NTG Clarity";
   
-  final List<String> stack = [
-    "Flutter", "Spring Boot", "Angular", "React", "Next.js"
+  final List<String> expertise = [
+    "Cross-Platform Mobile (Flutter)",
+    "Enterprise Backend (Spring Boot)",
+    "Modern Web (Angular, React, Next.js)",
+    "Linux Systems & Security"
   ];
   
-  final Map<String, String> currentFocus = {
-    "Building": "فهمك علينا — AI Arabic EdTech Platform 🤖",
-    "Learning": "Advanced System Design & Cloud Architecture",
-    "FunFact":  "I think in code and dream in terminal 💜"
+  final Map<String, dynamic> activeProject = {
+    "Name":  "فهمك علينا — AI Arabic EdTech Platform 🤖",
+    "Goal":  "Revolutionizing Arabic learning through AI",
+    "Status": "In Development 🚀"
   };
+
+  String get mantra => "Code is poetry, logic is law. 💜";
 }
 ```
 
 ---
 
-## 🛠️ Tech Universe
-
-<table align="center">
-  <tr>
-    <td align="center" width="250"><b>Mobile & Frontend</b></td>
-    <td align="center" width="250"><b>Backend & DB</b></td>
-    <td align="center" width="250"><b>Tools & OS</b></td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 🚀 Featured Projects
+## 🛠️ My Arsenal
 
 <div align="center">
 
-| Project | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **نهج المسلم** | 🕌 Islamic guidance web application | Angular, Vercel | [Live](https://islamek-aovy.vercel.app/) |
-| **فهمك علينا** | 🤖 AI-powered Arabic educational platform | Flutter, Gemini AI | [Repo](https://github.com/youssef50505) |
-| **Sign Language App** | 🤟 Real-time translator for accessibility | React, Python | [Repo](https://github.com/youssef50505) |
+| Category | Technologies |
+| :--- | :--- |
+| **Mobile & Frontend** | <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> |
+| **Backend & Databases** | <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> |
+| **DevOps & Tools** | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> |
 
 </div>
 
 ---
 
-## 📊 Performance Metrics
+## 🚀 Featured Innovations
 
+<div align="center">
+
+| Project | Description | Live Demo |
+| :--- | :--- | :--- |
+| **نهج المسلم** | 🕌 Islamic guidance web application with modern UI | [View Site](https://islamek-aovy.vercel.app/) |
+| **فهمك علينا** | 🤖 AI-powered Arabic educational platform using Gemini | [Coming Soon](#) |
+| **Sign Language** | 🤟 Real-time sign language to text translator | [Project Link](#) |
+
+</div>
+
+---
+
+## 📈 Activity & Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=youssef50505&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef50505&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa" />
@@ -100,10 +89,13 @@ class Developer {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssef50505&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=youssef50505&theme=tokyonight&hide_border=true&area=true&bg_color=0d1117&color=a78bfa" width="100%" />
+</div>
+
 ---
 
-## 🎵 Resonance
-
+## 🎵 Now Vibrating
 <div align="center">
 
 [![Spotify](https://novatorem-youssef50505.vercel.app/api/spotify)](https://open.spotify.com)
@@ -112,8 +104,7 @@ class Developer {
 
 ---
 
-## 🐍 Activity
-
+## 🐍 Evolution
 <div align="center">
 
 <picture>

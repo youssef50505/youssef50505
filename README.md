@@ -5,6 +5,12 @@
 
 <img src="./banner_wide.png" width="100%" alt="Youssef Hassan Banner" />
 
+<br/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndzB4bmJ4ZzB4bmJ4ZzB4bmJ4ZzB4bmJ4ZzB4bmJ4ZzB4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/L18VAd9vB5yJ3j1S1X/giphy.gif" width="150" />
+</div>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=26&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Innovative+Full-Stack+Developer+%F0%9F%92%BB;Flutter+%26+Dart+Specialist+%F0%9F%93%B1;Spring+Boot+%7C+Angular+%7C+Next.js;Building+Arabic+EdTech+with+AI+%F0%9F%A4%96;Linux+Power+User+%26+Open+Source+Advocate;Always+learning.+Always+evolving+%E2%9C%A8)](https://git.io/typing-svg)
 
 <p align="center">
@@ -25,6 +31,10 @@
 ---
 
 ## 👨‍💻 The Developer Object
+
+<div align="right">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="100" />
+</div>
 
 ```dart
 class Developer {
@@ -51,15 +61,19 @@ class Developer {
 
 ---
 
-## 🛠️ My Arsenal
+## 🛠️ My Arsenal (3D Animated)
 
 <div align="center">
 
 | Category | Technologies |
 | :--- | :--- |
-| **Mobile & Frontend** | <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> |
-| **Backend & Databases** | <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> |
-| **DevOps & Tools** | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> |
+| **Mobile & Frontend** | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="25" /> **Flutter, Angular, React** |
+| **Backend & DB** | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="25" /> **Spring Boot, Node, PostgreSQL** |
+| **DevOps & OS** | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Cloud.png" width="25" /> **Docker, Linux, Git** |
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,angular,react,nextjs,spring,nodejs,postgres,redis,docker,linux,git,vscode,figma&perline=7" />
 
 </div>
 

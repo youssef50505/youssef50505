@@ -103,8 +103,7 @@ class Developer {
 
 ## 📈 Activity & Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=youssef50505&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef50505&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa" />
+  <img src="https://ghchart.rshah.org/A78BFA/youssef50505" alt="Youssef's Github Chart" width="800" />
 </div>
 
 <br/>

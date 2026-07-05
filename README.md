@@ -23,12 +23,18 @@
 
 ---
 
+<br/>
+
 ## 💎 Achievements
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=youssef50505&theme=tokyonight&no-frame=true&no-bg=true&column=6" />
 </div>
 
+<br/>
+
 ---
+
+<br/>
 
 ## 👨‍💻 The Developer Object
 
@@ -49,49 +55,60 @@ class Developer {
     "Linux Systems & Security"
   ];
   
-  final Map<String, dynamic> activeProject = {
-    "Name":  "فهمك علينا — AI Arabic EdTech Platform 🤖",
-    "Goal":  "Revolutionizing Arabic learning through AI",
-    "Status": "In Development 🚀"
+  final Map<String, dynamic> currentFocus = {
+    "Project": "فهمك علينا — AI Arabic EdTech Platform 🤖",
+    "Goal":    "Revolutionizing Arabic learning through AI",
+    "Status":  "In Development 🚀"
   };
+
+  final List<String> currentlyLearning = [
+    "Generative AI Integration",
+    "Advanced Cloud Architectures"
+  ];
 
   String get mantra => "Code is poetry, logic is law. 💜";
 }
 ```
 
+<br/>
+
 ---
-
-## 🛠️ My Arsenal (Animated 3D)
-
-<div align="center">
-
-| Category | Technologies |
-| :--- | :--- |
-| **Mobile & Frontend** | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="35" /> **Flutter, Angular, React** |
-| **Backend & DB** | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="35" /> **Spring Boot, Node, PostgreSQL** |
-| **DevOps & OS** | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" width="35" /> **Docker, Linux, Git** |
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,angular,react,nextjs,spring,nodejs,postgres,redis,docker,linux,git,vscode,figma&perline=7" />
+## 🛠️ My Arsenal
+
+<div align="center">
+
+| **Mobile & Frontend** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="30" align="top" /> | **Backend & Database** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="30" align="top" /> | **DevOps & OS** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" width="30" align="top" /> |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=flutter,dart,angular,react,nextjs&theme=dark&perline=3" /> | <img src="https://skillicons.dev/icons?i=spring,nodejs,postgres,redis&theme=dark&perline=2" /> | <img src="https://skillicons.dev/icons?i=docker,linux,git,vscode,figma&theme=dark&perline=3" /> |
 
 </div>
 
+<br/>
+
 ---
+
+<br/>
 
 ## 🚀 Featured Innovations
 
 <div align="center">
 
-| Project | Description | Live Demo |
-| :--- | :--- | :--- |
-| **نهج المسلم** | 🕌 Islamic guidance web application with modern UI | [View Site](https://islamek-aovy.vercel.app/) |
-| **فهمك علينا** | 🤖 AI-powered Arabic educational platform using Gemini | [Coming Soon](#) |
-| **Sign Language** | 🤟 Real-time sign language to text translator | [Project Link](#) |
+| Project | Description | Tech Stack | Status |
+| :--- | :--- | :---: | :---: |
+| **نهج المسلم** | 🕌 Islamic guidance web application with modern UI | <img src="https://skillicons.dev/icons?i=angular,tailwind&theme=dark" height="25" /> | [![View Site](https://img.shields.io/badge/Live_Demo-7c3aed?style=for-the-badge)](https://islamek-aovy.vercel.app/) |
+| **فهمك علينا** | 🤖 AI-powered Arabic educational platform using Gemini | <img src="https://skillicons.dev/icons?i=flutter,spring,postgres&theme=dark" height="25" /> | [![Coming Soon](https://img.shields.io/badge/Coming_Soon-1f2937?style=for-the-badge)](#) |
+| **Sign Language** | 🤟 Real-time sign language to text translator | <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" height="25" /> | [![View Repo](https://img.shields.io/badge/Project_Link-1f2937?style=for-the-badge)](#) |
 
 </div>
 
+<br/>
+
 ---
+
+<br/>
 
 ## 📈 Activity & Stats
 <div align="center">
@@ -99,15 +116,23 @@ class Developer {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef50505&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa" />
 </div>
 
+<br/>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssef50505&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=youssef50505&theme=tokyonight&hide_border=true&area=true&bg_color=0d1117&color=a78bfa" width="100%" />
 </div>
 
+<br/>
+
 ---
+
+<br/>
 
 ## 🎵 Now Vibrating
 <div align="center">
@@ -116,7 +141,11 @@ class Developer {
 
 </div>
 
+<br/>
+
 ---
+
+<br/>
 
 ## 🐍 Evolution
 <div align="center">

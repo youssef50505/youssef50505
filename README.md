@@ -128,7 +128,7 @@ class Developer {
 ## 💡 Inspiration
 <div align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=24&pause=2000&color=A78BFA&center=true&vCenter=true&width=800&lines=First,+solve+the+problem.+Then,+write+the+code.;Talk+is+cheap.+Show+me+the+code.;Make+it+work,+make+it+right,+make+it+fast.;Code+is+like+humor.+When+you+have+to+explain+it,+it’s+bad." alt="Inspirational Quotes" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=24&pause=2000&color=A78BFA&center=true&vCenter=true&width=800&lines=First+solve+the+problem+then+write+the+code;Talk+is+cheap+show+me+the+code;Make+it+work+make+it+right+make+it+fast" alt="Inspirational Quotes" />
   </a>
 </div>
 

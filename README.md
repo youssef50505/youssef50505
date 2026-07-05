@@ -25,16 +25,7 @@
 
 <br/>
 
-## 💎 Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=youssef50505&theme=tokyonight&no-frame=true&no-bg=true&column=6" />
-</div>
 
-<br/>
-
----
-
-<br/>
 
 ## 👨‍💻 The Developer Object
 
@@ -134,11 +125,11 @@ class Developer {
 
 <br/>
 
-## 🎵 Now Vibrating
+## 💡 Inspiration
 <div align="center">
-
-[![Spotify](https://novatorem-youssef50505.vercel.app/api/spotify)](https://open.spotify.com)
-
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=24&pause=2000&color=A78BFA&center=true&vCenter=true&width=800&lines=First,+solve+the+problem.+Then,+write+the+code.;Talk+is+cheap.+Show+me+the+code.;Make+it+work,+make+it+right,+make+it+fast.;Code+is+like+humor.+When+you+have+to+explain+it,+it’s+bad." alt="Inspirational Quotes" />
+  </a>
 </div>
 
 <br/>
